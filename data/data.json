@@ -1,0 +1,395 @@
+{
+    "defaultLabImage": "./img/wholelab07052016.jpeg",
+    "defaultImageGallery": "./img/gallery1.jpg",
+    "defaultImageGalleryTitle": "Engrafted ERMS tumor in the cranium from transplantation",
+    "boo" : {
+    "title": "Eleanor Chen, MD, PHD",
+    "institution": "University of Washington Medical Center",
+    "department": "Department of Pathology",
+    "subtitle": "Assistant Professor",
+    "email": "eleanor2@uw.edu",
+    "contactInfo": [
+        { "info": "1959 NE Pacific St Box 357705" },
+        { "info": "HSB Room K-072A / Lab: K-084" },
+        { "info": "Office #: 206-616-5062 / Lab #: 206-616-9118" }
+        ]
+    },
+    "linkSources": [
+      {"category": "researchInterest", "target": "#section1 .inner"},
+      {"category": "publications", "target": "#section2 .inner"},
+      {"category": "labMembers", "target": "#section3 .inner"},
+      {"category": "imageGallery", "target": "#section4 .inner"}
+    ],
+    "researchInterest": "Our main research interest is in understanding pathogenesis of cancer using zebrafish and mammalian experimental systems. Our current research focuses on dissecting cellular and molecular mechanisms underlying the pathogenesis of pediatric rhabdomyosarcoma, in particular the key events regulating tumor differentiation, relapse and metastasis. My laboratory utilizes the strategies of chemical genetics, functional genomics and genome engineering to identify key driver events of rhabdomyosarcoma.",
+    "publications": [
+    {
+        "title": "Oncolytic virus-mediated RAS targeting in rhabdomyosarcoma.",
+        "authors": "Phelps MP, Yang H, Patel S, Rahman MM, McFadden DG, Chen E.",
+        "journal": "Mol Ther Oncolytics. 2018 Sep 15;11:52-61. doi: 10.1016/j.omto.2018.09.001. eCollection 2018 Dec 21",
+        "PMID": "30364635",
+        "url": "https://doi.org/10.1016/j.omto.2018.09.001"
+    },
+    {
+        "title": "CRISPR screen identifies the NCOR/HDAC3 complex as a major suppressor of differentiation in rhabdomyosarcoma.",
+        "authors": "Phelps MP, Bailey JN, Vleeshouwer-Neumann T, Chen EY.",
+        "journal": "Proc Natl Acad Sci U S A. 2016 Dec 27;113(52):15090-15095. doi: 10.1073/pnas.1610270114. Epub 2016 Dec 12",
+        "PMID": "27956629",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=27956629"
+    },
+    {
+        "title": "Head and Neck Rhabdomyosarcoma: Clinical and Pathologic Characterization of Seven Cases.",
+        "authors": "Chen E, Ricciotti R, Futran N, Oda D.",
+        "journal": "Head Neck Pathol. 2017 Sep;11(3):321-326. doi: 10.1007/s12105-016-0771-0. Epub 2016 Nov 28",
+        "PMID": "27896667",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=27896667"
+    },
+    {
+        "title": "Class I Histone Deacetylase HDAC1 and WRN RECQ Helicase Contribute Additively to Protect Replication Forks upon Hydroxyurea-induced Arrest.",
+        "authors": "Kehrli K, Phelps M, Lazarchuk P, Chen E, Monnat R Jr, Sidorova JM.",
+        "journal": "The Journal of biological chemistry. 2016; 291(47):24487-24503.",
+        "PMID": "27672210",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=27672210"
+    },
+    {
+        "title": "Zebrafish Rhabdomyosarcoma.",
+        "authors": "Phelps M, Chen E.",
+        "journal": "Adv Exp Med Biol. 2016;916:371-89. doi: 10.1007/978-3-319-30654-4_16.",
+        "PMID": "27165362",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=27165362"
+    }, {
+        "title": "Histone Deacetylase Inhibitors Antagonize Distinct Pathways to Suppress Tumorigenesis of Embryonal Rhabdomyosarcoma.",
+        "authors": "Vleeshouwer-Neumann T, Phelps M, Bammler TK, MacDonald JW, Jenkins I, Chen EY.",
+        "journal": "PLoS One. 2015 Dec 4;10(12):e0144320. doi: 10.1371/journal.pone.0144320. eCollection 2015",
+        "PMID": "26636678",
+        "PMCID": "4670218",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=26636678"
+    }, {
+        "title": "Wnt Signaling in Rhabdomyosarcoma - a Potential Targeted Therapy Option.",
+        "authors": "Chen E.",
+        "journal": "Curr Drug Targets. 2015 Jun 30.",
+        "PMID": "26122033",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=26122033"
+    }, {
+        "title": "High-Resolution Array CGH and Gene Expression Profiling of Alveolar Soft Part Sarcoma.",
+        "authors": "Selvarajah S, Pyne S, Chen E, Sompallae R, Ligon AH, Nielsen GP, Dranoff G, Stack E, Loda M, Flavin R.",
+        "journal": "Clin Cancer Res. 2014 Mar 15;20(6):1521-30.",
+        "PMID": "24493828",
+        "PMCID": "PMC3962657",
+        "style": "display:none",
+        "status": "inactive",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=24493828"
+    }, {
+        "title": "Glycogen synthase kinase 3 inhibitors induce the canonical WNT/ß-catenin pathway to suppress growth and self-renewal in embryonal rhabdomyosarcoma.",
+        "authors": "Chen EY, Deran MT, Ignatius MS, Grandinetti KB, Clagg R, McCarthy KM, Lobbardi RM, Brockmann J, Keller C, Wu X, Langenau DM.",
+        "journal": "Proc Natl Acad Sci U S A. 2014 Apr 8;111(14):5349-54.",
+        "PMID": "24706870",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=24706870"
+    }, {
+        "title": "Cross-species array comparative genomic hybridization identifies novel oncogenic events in zebrafish and human embryonal rhabdomyosarcoma.",
+        "authors": "Chen EY, Dobrinski KP, Brown KH, Clagg R, Edelman E, Ignatius MS, Chen JY, Brockmann J, Nielsen GP, Ramaswamy S, Keller C, Lee C, Langenau DM.",
+        "journal": "PLoS Genet. 2013 Aug;9(8):e1003727.",
+        "PMID": "24009521",
+        "PMCID": "PMC3757044",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=24009521"
+    }, {
+        "title": "A novel chemical screening strategy in zebrafish identifies common pathways in embryogenesis and rhabdomyosarcoma development.",
+        "authors": "Le X, Pugach EK, Hettmer S, Storer NY, Liu J, Wills AA, DiBiase A, Chen EY, Ignatius MS, Poss KD, Wagers AJ, Langenau DM, Zon LI.",
+        "journal": "Development. 2013 Jun;140(11):2354-64.",
+        "PMID": "23615277",
+        "PMCID": "PMC3653557",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=23615277"
+    }, {
+        "title": "In vivo imaging of tumor-propagating cells, regional tumor heterogeneity, and dynamic cell movements in embryonal rhabdomyosarcoma.",
+        "authors": "Ignatius MS, Chen E, Elpek NM, Fuller AZ, Tenente IM, Clagg R, Liu S, Blackburn JS, Linardic CM, Rosenberg AE, Nielsen PG, Mempel TR, Langenau DM.",
+        "journal": "Cancer Cell. 2012 May 15; 21(5):680-93.",
+        "PMID": "22624717",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=22624717"
+    }, {
+        "title": "Dedifferentiated leiomyosarcoma: clinicopathological analysis of 18 cases.",
+        "authors": "Chen E, O'Connell F, Fletcher CD. ",
+        "journal": "Histopathology. 2011 Dec; 59(6):1135-43.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=22175893",
+        "status": "inactive"
+    }, {
+        "title": "PAX2-null secretory cell outgrowths in the oviduct and their relationship to pelvic serous cancer.",
+        "authors": "Quick CM, Ning G, Bijron J, Laury A, Wei TS, Chen EY, Vargas SO, Betensky RA, McKeon FD, Xian W, Crum CP.",
+        "journal": "Mod Pathol. 2012 Mar; 25(3):449-55.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=22080059",
+        "status": "inactive"
+    }, {
+        "title": "Zebrafish models of rhabdomyosarcoma.",
+        "authors": "Chen EY, Langenau DM.",
+        "journal": "Methods Cell Biol. 2011; 105:383-402.",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/21951539",
+        "PMID": "21951539"
+    }, {
+        "title": "Secretory cell outgrowth, PAX2 and serous carcinogenesis in the Fallopian tube.",
+        "authors": "Chen EY, Mehra K, Mehrad M, Ning G, Miron A, Mutter GL, Monte N, Quade BJ, McKeon FD, Yassin Y, Xian W, Crum CP.",
+        "journal": "J Pathol. 2010 Sep; 222(1):110-6.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/20597068",
+        "status": "inactive"
+    }, {
+        "title": "A pathologist's road map to benign, precancerous, and malignant intraepithelial proliferations in the fallopian tube.",
+        "authors": "Mehrad M, Ning G, Chen EY, Mehra KK, Crum CP.",
+        "journal": "Adv Anat Pathol. 2010 Sep; 17(5):293-302.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=20733351",
+        "status": "inactive"
+    }, {
+        "title": "Meningothelial proliferations in mature cystic teratoma of the ovary: evidence for the common presence of cranially derived tissues paralleling anterior embryonic plate development. An analysis of 25 consecutive cases.",
+        "authors": "Chen E, Fletcher CD, Nucci MR.",
+        "journal": "Am J Surg Pathol. 2010 Jul; 34(7):1014-8.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=20534997",
+        "status": "inactive"
+    }, {
+        "title": "Histological 'progression' from low (LSIL) to high (HSIL) squamous intraepithelial lesion is an uncommon event and an indication for quality assurance review.",
+        "authors": "Chen EY, Tran A, Raho CJ, Birch CM, Crum CP, Hirsch MS.",
+        "journal": "Mod Pathol. 2010 Aug; 23(8):1045-51.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=20473279",
+        "status": "inactive"
+    }, {
+        "title": "Cellular angiofibroma with atypia or sarcomatous transformation: clinicopathologic analysis of 13 cases.",
+        "authors": "Chen E, Fletcher CD.",
+        "journal": "Am J Surg Pathol. 2010 May; 34(5):707-14.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/20305534",
+        "status": "inactive"
+    }, {
+        "title": "Mesenchymal cystic hamartoma of the lung: MRI and PET/CT appearance.",
+        "authors": "Souza FF, Chen E.",
+        "journal": "J Thorac Imaging. 2009 Feb; 24(1):52-5.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=19242306",
+        "status": "inactive"
+    }, {
+        "title": "Genome-wide reverse genetics framework to identify novel functions of the vertebrate secretome.",
+        "authors": "Pickart MA, Klee EW, Nielsen AL, Sivasubbu S, Mendenhall EM, Bill BR, Chen E, Eckfeldt CE, Knowlton M, Robu ME, Larson JD, Deng Y, Schimmenti LA, Ellis LB, Verfaillie CM, Hammerschmidt M, Farber SA, Ekker SC.",
+        "journal": "PLoS One. 2006; 1:e104.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=17218990",
+        "status": "inactive"
+    }, {
+        "title": "A unique role for 6-O sulfation modification in zebrafish vascular development.",
+        "authors": "Chen E, Stringer SE, Rusch MA, Selleck SB, Ekker SC.",
+        "journal": "Dev Biol. 2005 Aug 15; 284(2):364-76.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=16009360",
+        "status": "inactive"
+    }, {
+        "title": "Zebrafish as a genomics research model.",
+        "authors": "Chen E, Ekker SC.",
+        "journal": "Curr Pharm Biotechnol. 2004 Oct; 5(5):409-13.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/15544488",
+        "status": "inactive"
+    }, {
+        "title": "Syndecan-2 is essential for angiogenic sprouting during zebrafish development.",
+        "authors": "Chen E, Hermanson S, Ekker SC.",
+        "journal": "Blood. 2004 Mar 1; 103(5):1710-9.",
+        "style": "display:none",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=14592839",
+        "status": "inactive"
+    }],
+    "labMembers": [{
+            "imgsrc": "./img/wholelab07052016.jpeg",
+            "name": "Entire Lab",
+            "class": "memberSelected",
+            "status": "dormant",
+            "id": "1"
+        }, {
+            "imgsrc": "./img/mike07052016.jpeg",
+            "name": "Michael Phelps",
+            "title": "Acting Instructor",
+            "status": "active",
+            "id": "2"
+        }, {
+            "imgsrc": "./img/terra07052016.jpeg",
+            "name": "Terra Vleeshouwer-Neumann",
+            "title": "Research Scientist",
+            "status": "active",
+            "id": "3"
+        }, {
+            "imgsrc": "./img/thao07052016.jpeg",
+            "name": "Thao Pham",
+            "title": "Graduate Student",
+            "status": "active",
+            "id": "4"
+        },
+        {
+             "imgsrc": "./img/texia.jpg",
+             "name": "Texia Loh",
+             "title": "Undergraduate Research Assistant",
+             "status": "dormant",
+             "id" : "5"
+         },
+         {
+             "imgsrc": "./img/chaboni.jpg",
+             "name": "Shivani Patel",
+             "title": "Undergraduate Research Assistant",
+             "status": "dormant",
+             "id" : "6"
+         },
+         {
+             "imgsrc": "./img/henna.jpg",
+             "name": "Henna Di",
+             "title": "Undergraduate Research Assistant",
+             "status": "active",
+             "id" : "7"
+         },
+         {
+             "imgsrc": "./img/shelly.jpg",
+             "name": "Shelly Lin",
+             "title": "Undergraduate Research Assistant",
+             "status": "active",
+             "id" : "8"
+         },
+         {
+             "imgsrc": "./img/maddie.jpg",
+             "name": "Madi Fritzke",
+             "title": "Undergraduate Research Assistant",
+             "status": "active",
+             "id" : "9"
+         },
+        {
+            "imgsrc": "./img/colton07052016.jpeg",
+            "name": "Colton Yang",
+            "title": "Undergraduate Research Assistant",
+            "status": "dormant",
+            "id": "10"
+        }, {
+            "imgsrc": "./img/jessica07052016.jpeg",
+            "name": "Jessica Gianopulos",
+            "title": "Undergraduate Research Assistant",
+            "status": "dormant",
+            "id": "11"
+        }, {
+            "imgsrc": "./img/marilyn07052016.jpeg",
+            "name": "Marilyn Moelhman",
+            "title": "Undergraduate Research Assistant",
+            "status": "dormant",
+            "id": "12"
+        }, {
+            "imgsrc": "./img/phuong07052016.jpeg",
+            "name": "Phuong Van",
+            "title": "Undergraduate Research Assistant",
+            "status": "dormant",
+            "id": "13"
+        }, {
+            "imgsrc": "./img/monica02072017.jpeg",
+            "name": "Monica Bui",
+            "title": "Undergraduate Assistant",
+            "status": "dormant",
+            "id": "14"
+        },
+        {
+            "title": "Undergraduate Reserach Symposium 05/18/2018",
+            "linksrc": "https://flic.kr/s/aHsmc2dotj",
+            "name": "Undergraduate Reserach Symposium 05/18/2018",
+            "status": "active",
+            "type": "link",
+            "id": "15"
+
+        },
+        {
+            "title": "Lab Outing - Rattlesnake Hike 08/16/2017",
+            "linksrc": "https://www.flickr.com/photos/125683675@N04/sets/72157685226789283",
+            "name": "Lab Outing - Rattlesnake Hike 08/16/2017",
+            "status": "active",
+            "type": "link",
+            "id": "16"
+
+        }
+        ,{
+            "imgsrc": "./img/lauren07052016.jpeg",
+            "name": "Lauren Jackson",
+            "title": "STEMPREP Student Assistant",
+            "status": "dormant",
+            "id": "17"
+        },
+
+        {
+            "name": "Jenna Bailey",
+            "title": "Undergraduate Researcher",
+            "status": "dormant",
+            "id": "18"
+        }, {
+            "name": "Nicole Hickman",
+            "title": "Former Undergraduate Researcher, 2014-2015",
+            "status": "dormant",
+            "id": "19"
+        }, {
+            "name": "Zack York",
+            "title": "Medical Student, Summer Research Internship Program, University of Pittsburgh Medical School, Summer of 2014",
+            "status": "dormant",
+            "id": "20"
+        }, {
+            "name": "Christopher McDonald",
+            "title": "STEMPREP Program, Summer of 2015",
+            "status": "dormant",
+            "id": "21"
+        }
+    ],
+    "imageGallery": [{
+            "id": "image1",
+            "imgsrc": "./img/gallery1.jpg",
+            "title": "Engrafted ERMS tumor in the cranium from transplantation",
+            "wfactor": "9",
+            "hfactor": "16",
+            "width": "495",
+            "height": "312",
+            "class": "imageGalleryMemberSelected",
+            "linkChooserClass": "imgChooserSelected"
+        }, {
+            "id": "image2",
+            "imgsrc": "./img/gallery2.jpg",
+            "title": "Engrafted ERMS tumor in the abdominal cavity from transplantation",
+            "wfactor": "9",
+            "hfactor": "16",
+            "width": "475",
+            "height": "292"
+
+        }, {
+            "id": "image3",
+            "imgsrc": "./img/gallery3.png",
+            "title": "MF20 immunofluorescence of differentiated RMS cells.  Green: MF20; Blue: DAPI",
+            "wfactor": "9",
+            "hfactor": "16",
+            "width": "450",
+            "height": "322"
+        },
+        {
+            "id": "image4",
+            "imgsrc": "./img/gallery4.jpg",
+            "title": "Rhabdomyosarcoma cells induced to form spheres in growth factor-enriched stem cell media",
+            "wfactor": "9",
+            "hfactor": "16",
+            "width": "450",
+            "height": "342"
+        }
+
+    ],
+    "categories": [
+        { "href": "researchInterest",
+          "title": "Research Interest",
+          "id": "cResearchInterest"
+         },
+        { "href": "publications",
+          "title": "Publications",
+          "id" : "cPublications"
+         },
+         { "href": "labMembers",
+           "title": "Lab Members",
+           "id": "cLabMembers"
+         },
+         { "href": "imageGallery",
+           "title": "Image Gallery",
+           "id" : "cImageGallery"
+         }
+    ]
+
+}

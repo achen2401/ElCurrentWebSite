@@ -1,0 +1,29 @@
+{
+  "name": "dash-devtool",
+  "version": "0.0.1",
+  "description": "development tool",
+  "author": "Amy Chen",
+  "license": "BSD",
+  "scripts": {
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-buffer": "0.0.2",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-less": "^3.5.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-using": "^0.1.1",
+    "jshint": "^2.9.6",
+    "jshint-stylish": "^2.2.1",
+    "less-plugin-clean-css": "^1.5.1",
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
